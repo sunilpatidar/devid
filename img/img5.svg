@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.5827418,11.467191 C23.5383132,9.51161962 26.7079542,9.510653 28.6632933,11.465992 C30.6182025,13.4209013 30.6199994,16.5886384 28.6620943,18.5465435 L18.0956452,29.1129926 C17.6064919,29.602146 16.6488903,30.0101334 15.9593859,30.0242049 L10.819186,30.1291069 C10.3574371,30.1385304 9.99073467,29.7728412 10.0001784,29.3100993 L10.1050804,24.1698994 C10.1191757,23.4792293 10.5240646,22.5258682 11.0162926,22.0336401 L20.7484321,12.3015007 L21.5827418,11.467191 Z M23.3234089,13.2662001 C24.3008164,12.2887926 25.8875342,12.2908198 26.8629998,13.2662855 C27.8404545,14.2437401 27.8402916,15.8286699 26.8630852,16.8058764 L16.296229,27.3727325 C16.1318769,27.5370846 15.8137829,27.6747792 15.5825567,27.680359 L12.8757856,27.7456765 C12.7262311,27.7492854 12.4486969,27.6581639 12.4486969,27.6581639 C12.4486969,27.6581639 12.3805084,27.3819819 12.3836088,27.2534997 L12.4489263,24.5467286 C12.4544716,24.3169303 12.5914852,23.9981238 12.7565528,23.8330563 L23.3234089,13.2662001 Z" id="path-1"></path>
+        <filter x="-64.6%" y="-54.6%" width="229.2%" height="229.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fullhd---snap-kit-copy-7" transform="translate(-546.000000, -2221.000000)">
+            <g id="Section:-Create-Kit" transform="translate(56.000000, 1611.000000)">
+                <g id="Toggle" transform="translate(111.000000, 582.000000)">
+                    <g id="Group-2" transform="translate(379.000000, 28.000000)">
+                        <g id="icon">
+                            <rect id="Rectangle-5-Copy" fill="#11AEFF" x="0" y="0" width="40" height="40" rx="20"></rect>
+                            <g id="Draw-Icon">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
